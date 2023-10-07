@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/b449859a81b6924189f0d.jpg" alt="Fast Finder Logo">
 </p>
 <h1 align="center">
-  <b> Fast Finder BOT </b>
+  <b> Fast Finder Bot </b>
 </h1>
 
 ## ⚡️Features
